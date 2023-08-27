@@ -1,0 +1,27 @@
+.navbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9;
+    padding: 20px 0;
+}
+
+.navbar .navbar-nav .nav-item {
+    margin-left: 30px;
+}
+
+.navbar .navbar-nav .nav-item .nav-link {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    transition: all linear 0.3s;
+}
+
+.navbar .navbar-nav .nav-item .nav-link.active {
+    color: #000;
+}
+
+.navbar .navbar-nav .nav-item .nav-link:hover {
+    color: #000;
+}

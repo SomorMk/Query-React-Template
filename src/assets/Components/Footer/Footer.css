@@ -1,0 +1,123 @@
+#footer {
+    padding: 50px 0 20px;
+    background: #000;
+}
+
+#footer .footer_top .footer_top_btns {
+    text-align: right;
+}
+
+#footer .footer_top .footer_top_btns ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+}
+
+#footer .footer_top .footer_top_btns ul li {
+    margin-left: 5px;
+}
+
+#footer .footer_top .footer_top_btns ul li a {
+    padding: 10px 25px;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    transition: all linear 0.3s;
+}
+
+#footer .footer_top .footer_top_btns ul li a.active {
+    color: #000;
+    background: #FBD784;
+}
+
+#footer .footer_top .footer_top_btns ul li a.active:hover {
+    color: #000;
+    background: #fff;
+}
+
+#footer .footer_top .footer_top_btns ul li a:hover {
+    color: #FBD784;
+}
+
+#footer .footer_mid {
+    margin-top: 50px;
+}
+
+#footer .footer_mid .footer_mid_left h4 {
+    color: #fff;
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+
+#footer .footer_mid .footer_mid_left a {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+#footer .footer_mid .footer_mid_left a:hover {
+    color: #FBD784;
+}
+
+#footer .footer_mid .footer_mid_left .social_icon {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#footer .footer_mid .footer_mid_left .social_icon li {
+    margin-right: 15px;
+}
+
+#footer .footer_mid .footer_mid_left .social_icon li a i {
+    color: #fff;
+    font-size: 15px;
+}
+
+#footer .footer_mid .footer_mid_left .social_icon li a:hover i {
+    color: #FBD784;
+}
+
+#footer .footer_mid .footer_mid_right h6 {
+    color: #FBD784;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+#footer .footer_mid .footer_mid_right ul li {
+    margin-bottom: 10px;
+}
+
+#footer .footer_mid .footer_mid_right ul li a {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    transition: all linear 0.3s;
+}
+
+#footer .footer_mid .footer_mid_right ul li a:hover {
+    color: #FBD784;
+}
+
+#footer .footer_bottom {
+    margin-top: 50px;
+}
+
+#footer .footer_bottom p {
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400;
+    opacity: 0.7;
+}
+
+#footer .footer_bottom p a {
+    color: #fff;
+}
+
+#footer .footer_bottom p a:hover {
+    color: #FBD784;
+}
