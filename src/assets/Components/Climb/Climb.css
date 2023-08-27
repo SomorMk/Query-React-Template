@@ -1,0 +1,49 @@
+#climb {
+    background: #000;
+}
+#climb .climb_inner {
+    padding: 400px 0 50px;
+    background: url(../../../../public/images/banner_2.jpg);
+}
+
+#climb .climb_inner .climb_text {
+    text-align: center;
+}
+
+#climb .climb_inner .climb_text h6 {
+    color: #FBD784;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    margin-bottom: 20px;
+}
+
+#climb .climb_inner .climb_text h2 {
+    color: #fff;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 120%;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+#climb .climb_inner .climb_text p {
+    color: #fff;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 28px;
+    margin-bottom: 30px;
+}
+
+#climb .climb_inner .climb_text a {
+    color: #FBD784;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+#climb .climb_inner .climb_text a:hover {
+    color: #fff;
+    text-decoration: underline;
+}

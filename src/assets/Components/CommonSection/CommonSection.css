@@ -1,0 +1,51 @@
+#com_section {
+    padding: 200px 0;
+    background: #000;
+}
+
+#com_section .com_sec_inner {
+    align-items: center;
+}
+
+#com_section .com_sec_inner .com_sec_image img {
+    width: 100%;
+    max-width: 100%;
+}
+
+#com_section .com_sec_inner .com_sec_text h6 {
+    color: #FBD784;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    margin-bottom: 20px;
+}
+
+#com_section .com_sec_inner .com_sec_text h2 {
+    color: #fff;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 120%;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+#com_section .com_sec_inner .com_sec_text p {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 28px;
+    margin-bottom: 50px;
+}
+
+#com_section .com_sec_inner .com_sec_text a {
+    color: #FBD784;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+#com_section .com_sec_inner .com_sec_text a:hover {
+    color: #fff;
+    text-decoration: underline;
+}

@@ -1,0 +1,27 @@
+#banner {
+    padding: 250px 0;
+    background: url(../../../../public/images/banner.png) no-repeat center/cover;
+}
+
+#banner .banner_text h6 {
+    color: #FBD784;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    margin-bottom: 25px;
+}
+
+#banner .banner_text h1 {
+    color: #fff;
+    font-size: 60px;
+    font-weight: 400;
+}
+
+#banner .banner_text h1 span {
+    display: block;
+    color: #fff;
+    font-size: 80px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
